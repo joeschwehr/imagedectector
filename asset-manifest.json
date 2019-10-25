@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/imagedetector/static/css/main.0196e960.chunk.css",
+    "main.css": "/imagedetector/static/css/main.8013b33e.chunk.css",
     "main.js": "/imagedetector/static/js/main.fbf1561a.chunk.js",
     "main.js.map": "/imagedetector/static/js/main.fbf1561a.chunk.js.map",
     "runtime-main.js": "/imagedetector/static/js/runtime-main.f8ba2527.js",
@@ -9,16 +9,16 @@
     "static/js/2.a2685bff.chunk.js": "/imagedetector/static/js/2.a2685bff.chunk.js",
     "static/js/2.a2685bff.chunk.js.map": "/imagedetector/static/js/2.a2685bff.chunk.js.map",
     "index.html": "/imagedetector/index.html",
-    "precache-manifest.8d2869c8ac7453a51f602d14c5ec67ad.js": "/imagedetector/precache-manifest.8d2869c8ac7453a51f602d14c5ec67ad.js",
+    "precache-manifest.03a53b45b27b335ed978db46e935db91.js": "/imagedetector/precache-manifest.03a53b45b27b335ed978db46e935db91.js",
     "service-worker.js": "/imagedetector/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/imagedetector/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.0196e960.chunk.css.map": "/imagedetector/static/css/main.0196e960.chunk.css.map"
+    "static/css/main.8013b33e.chunk.css.map": "/imagedetector/static/css/main.8013b33e.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.f8ba2527.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.a2685bff.chunk.js",
-    "static/css/main.0196e960.chunk.css",
+    "static/css/main.8013b33e.chunk.css",
     "static/js/main.fbf1561a.chunk.js"
   ]
 }
